@@ -5,7 +5,7 @@
 </a>
 <pre>
 @font-face {
-    font-family: 'Tmon';
+    font-family: 'CookieRun';
     font-weight: 400;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/cookierun/CookieRunRegular.eot');
@@ -16,7 +16,7 @@
     font-display: swap;
 } 
 @font-face {
-    font-family: 'Tmon';
+    font-family: 'CookieRun';
     font-weight: 700;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/cookierun/CookieRunBold.eot');
@@ -27,7 +27,7 @@
     font-display: swap;
 } 
 @font-face {
-    font-family: 'Tmon';
+    font-family: 'CookieRun';
     font-weight: 900;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/cookierun/CookieRunBlack.eot');
